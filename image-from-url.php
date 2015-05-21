@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Rajoshik Post Feature Image From URL
-Plugin URI: http://rajoshik.com/themes/rajoshik-post-feature-image-from-url/
+Plugin Name: VainCode Upload Feature Image From URL
+Plugin URI: http://market.vaincode.com/product/set-post-feature-image-from-url/
 Description: This Plugin will allow user to upload post feature image from image url. Image will be added as post feature image..
 Author: Md. Abdullah Al Mahim
-Version: 1.0
+Version: 1.1
 Author URI: http://www.fb.com/a.a.mahim
 */
 

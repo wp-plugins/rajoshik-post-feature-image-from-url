@@ -1,4 +1,4 @@
-=== Rajoshik Post Feature Image From URL ===
+=== VainCode Upload Feature Image From URL ===
 
 Contributors: Md. Abdullah Al Mahim
 
@@ -40,11 +40,12 @@ Of course! its works with nearly every WordPress theme.
 
 == Support ==
 For Any Type of Support Submit your Query Here:
- http://rajoshik.com/themes/rajoshik-post-feature-image-from-url/
+http://support.vaincode.com/
 
 == Changelog ==
 = 1.0 =
 * Initial release
 
 == Upgrade Notice == 
+1.01
 1.00
